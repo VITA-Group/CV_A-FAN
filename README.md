@@ -34,15 +34,34 @@ More detailed results of performancing A-FAN on visual recognition tasks (e.g., 
 
 ### Classification
 
+#### Requirements
 
+- pytorch == 1.5.0
+- torchvision == 0.6.0
+- advertorch
+
+#### Command
+
+```shell
+cd Classification
+bash cmd/run_test.sh # for testing with a pre-trained model (AFAN model with SA 94.82%)
+bash cmd/run_base.sh # for training baseline models
+bash cmd/run_perturb.sh # for training ALFA models
+```
+
+Remark. 
+
+- Pre-trained models can be downloaded [here](https://www.dropbox.com/sh/gpwk6tc15oni503/AADuwFkjasrozMbd2mMEDrwfa?dl=0).
+
+- For classification experiments, it only support adversarial feature augmentation so far.
 
 ### Detection
 
-
+Detials of Faster RCNN for detection are collected [here]().
 
 ### Segmentation
 
-
+Detials of DeepLabv3+ for segmentation are collected [here]().
 
 ## Citation
 
