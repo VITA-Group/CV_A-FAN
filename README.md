@@ -54,5 +54,11 @@ TBD
 
 ## Acknowledgement
 
+https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
 
+https://github.com/lukemelas/EfficientNet-PyTorch
+
+https://github.com/potterhsu/easy-faster-rcnn.pytorch
+
+https://github.com/VainF/DeepLabV3Plus-Pytorch
 
