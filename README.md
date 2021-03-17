@@ -57,11 +57,11 @@ Remark.
 
 ### Detection
 
-Detials of Faster RCNN for detection are collected [here]().
+Detials of Faster RCNN for detection are collected [here](https://github.com/Tianlong-Chen/CV_A-FAN/blob/main/Detection/README.md).
 
 ### Segmentation
 
-Detials of DeepLabv3+ for segmentation are collected [here]().
+Detials of DeepLabv3+ for segmentation are collected [here](https://github.com/Tianlong-Chen/CV_A-FAN/blob/main/Segmentation/README.md).
 
 ## Citation
 
