@@ -1,1 +1,0 @@
-python main_inference.py --pretrained pretrained_model/res56s_perturb_pgd5_layer1_gamma0.5_norandclip_best_model.pt

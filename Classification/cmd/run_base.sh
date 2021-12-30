@@ -1,1 +1,0 @@
-python -u main_base.py --seed 3 --save_dir base_res56s
